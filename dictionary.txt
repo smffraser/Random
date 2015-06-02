@@ -1,0 +1,7 @@
+tac
+5
+act
+cat
+tact
+taa
+cattle
